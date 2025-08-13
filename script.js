@@ -1,5 +1,5 @@
 let header = {
-    title: "My Website",
+    title: "Wrap & Roll",
     cart: "🛒"
 }
 document.write(`
