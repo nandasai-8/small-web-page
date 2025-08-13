@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            background-color: darkcyan;
+            color: #333;
+        }
+        header{
+            background-color: green;
+            display: flex;
+            justify-content: space-between;
+            padding: 20px;
+            color: white;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+        }
+        .cart{
+            font-size: 2rem;
+            margin-right: 30px;
+        }
+        .item img{
+            width: 300px;
+            height: 230px;
+            overflow: hidden;
+            object-fit: cover;
+        }
+        .items{
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 50px; 
+            margin-top: 10rem; 
+              margin: 10rem 10rem;
+        
+        }
+        .item{
+            background-color: #fff;
+            width:300px;
+            height: 450px;
+            /* padding: 10px 0 0 25px; */
+            overflow: hidden;
+          
+        }
+        .item button{
+            background-color: green;
+            width: 90%;
+            color: white;
+            border: none;
+            cursor: pointer;
+            font-size: 2rem;
+            margin: 30px 5px 5px 15px;
+            border-radius: 25px;
+        }
+        .item h2,p{
+            font-size: 25px;
+        }
+        .item h2{
+            color: green;
+            padding: 5px;
+            margin-top: 20px;
+            margin-left: 20px;
+        }
+        .item p{
+            color: black;
+            margin-top: 25px;
+            margin-left: 20px;
+        }
+        .item button:hover{
+            background-color: darkgreen;
+        }
+        .item img:hover{
+            transform: scale(1.15);
+            transition: 0.2s;
+
+        }
+    </style>
+</head>
+<body>
+    <script src="./script.js"></script>
+</body>
+</html>
