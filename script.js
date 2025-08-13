@@ -16,45 +16,45 @@ let items = [
         cart: "🛒"
     },
     {
-        img: "https://www.awesomecuisine.com/wp-content/uploads/2009/06/Plain-Dosa.jpg",
-        name: "Dosa",
-        price: 50,
+        img: "https://chakriskitchen.com/wp-content/uploads/2018/12/Idly19-500x500.jpg",
+        name: "idly",
+        price: 60,
         cart: "🛒"
     },
     {
-        img: "https://www.awesomecuisine.com/wp-content/uploads/2009/06/Plain-Dosa.jpg",
-        name: "Dosa",
-        price: 50,
+        img: "https://lh4.googleusercontent.com/proxy/EG-kWc7b5gqVrXOriIpVK4ao-jNHc5WfpDzv2g0PV_yIhzAl4tAXAy_9q69f00QG-3odYcWYf2jb7keCIUv5DCp2xp16tSMiXnpn",
+        name: "chicken roll",
+        price: 90,
         cart: "🛒"
     },
     {
-        img: "https://www.awesomecuisine.com/wp-content/uploads/2009/06/Plain-Dosa.jpg",
-        name: "Dosa",
-        price: 50,
+        img: "https://www.ndtv.com/cooks/images/natu.kodi.kura.jpg?im=FaceCrop,algorithm=dnn,width=140,height=105",
+        name: "chiken-curry",
+        price: 120,
         cart: "🛒"
     },
     {
-        img: "https://www.awesomecuisine.com/wp-content/uploads/2009/06/Plain-Dosa.jpg",
-        name: "Dosa",
-        price: 50,
+        img: "https://i.ytimg.com/vi/2GAZ723iV_o/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDJts-iC8PTdcGj9n76i1lfT-7qDA",
+        name: "Boti-curry",
+        price: 250,
         cart: "🛒"
     },
     {
-        img: "https://www.awesomecuisine.com/wp-content/uploads/2009/06/Plain-Dosa.jpg",
-        name: "Dosa",
-        price: 50,
+        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9hCCT4NGYhkIiJ74uovvTyX07tY1eL5w9xQ&s",
+        name: "sandwich",
+        price: 150,
         cart: "🛒"
     },
     {
-        img: "https://www.awesomecuisine.com/wp-content/uploads/2009/06/Plain-Dosa.jpg",
-        name: "Dosa",
-        price: 50,
+        img: "https://icecreambakery.in/wp-content/uploads/2024/12/Brownie-Recipe-with-Cocoa-Powder.jpg",
+        name: "Brownie",
+        price: 90,
         cart: "🛒"
     },
     {
-        img: "https://www.awesomecuisine.com/wp-content/uploads/2009/06/Plain-Dosa.jpg",
-        name: "Dosa",
-        price: 50,
+        img: "https://www.indianhealthyrecipes.com/wp-content/uploads/2023/09/tandoori-roti-recipe.jpg",
+        name: "Tandoori Roti",
+        price: 150,
         cart: "🛒"
     },
 
