@@ -88,6 +88,9 @@ document.write(`
     `);
 function opennav() {
     document.querySelector(".toggle").style.width = "30%";
+    document.querySelector(".toggle").style.visibility = "visible";
+    document.querySelector("#main").style.marginRight = "0";
+
     
 }
 function closenav() {
